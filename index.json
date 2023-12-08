@@ -2,11 +2,10 @@
   "baseUri": "https://raw.githubusercontent.com/fernandosang/Daijishou/main",
   "platformList": [
     {
-      "filename": "3DO.json",
-      "platformName": "3DO",
-      "platformShortname": "3do",
-      "platformUniqueId": "3do",
-      "revisionNumber": 5
+      "filename": "Android.json",
+      "platformName": "Android",
+      "platformShortname": "android",
+      "platformUniqueId": "android",
     }
   ]
 }
